@@ -1,4 +1,4 @@
-### Hi there 👋
+### Amante del desarrollo, pianista, scout, futuro ing en sistemas.
 
 <!--
 **Irnias/Irnias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
